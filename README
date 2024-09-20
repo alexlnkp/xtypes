@@ -2,3 +2,5 @@ A list of handy single-file headers with typedefs.
 
 - <xall.h> : all of the types listed below
 - <xint.h> : integer typedefs; includes signed and unsigned types, i64, u64, i32, u32...
+    You can also specify what integer types you want, by defining `XINT_FAST` for *int_fast*_t types, or `XINT_LEAST` for *int_least*_t types.
+    You can also just not do either and have default *int*_t types.
