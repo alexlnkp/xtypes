@@ -1,0 +1,4 @@
+A list of handy single-file headers with typedefs.
+
+- <xall.h> : all of the types listed below
+- <xint.h> : integer typedefs; includes signed and unsigned types, i64, u64, i32, u32...
