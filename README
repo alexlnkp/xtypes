@@ -5,3 +5,4 @@ A list of handy single-file headers with typedefs.
     You can also specify what integer types you want, by defining `XINT_FAST` for *int_fast*_t types, or `XINT_LEAST` for *int_least*_t types.
     You can also just not do either and have default *int*_t types.
 - <xfloat.h> : float typedefs; includes f32 (float), f64 (double), f128 (long double)
+- <xvec.h> : vector typedefs; includes vec3, vec4 and their integer and unsigned variations. read comments for more info

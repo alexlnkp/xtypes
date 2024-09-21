@@ -3,5 +3,6 @@
 
 #include "xint.h"
 #include "xfloat.h"
+#include "xvec.h"
 
 #endif /* __XALL_H__ */
